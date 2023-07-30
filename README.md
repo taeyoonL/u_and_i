@@ -1,16 +1,9 @@
-# u_and_i
+# 설명
+**쿠퍼티노 데이트 피커**를 이용하여 만든 간단한 *데이트 앱*입니다.
 
-A new Flutter project.
+# 주요 기능
+1. **가운데 하트**를 클릭하면 **원하는 날짜(처음 만난 날)를 선택**할 수 있다.
+2. 날짜를 선택할 시 실시간으로 **화면의 D-Day**와 **처음 만난 날**을 업데이트 해준다.
 
-## Getting Started
+# 실행 화면
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
